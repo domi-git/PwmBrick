@@ -1,0 +1,5 @@
+core_cm0.h:623:22:__NVIC_EnableIRQ	16	static
+core_cm0.h:730:22:__NVIC_SetPriority	24	static
+uart.c:29:2:InitUart	16	static
+uart.c:56:2:TransmitUart	16	static
+uart.c:72:2:USART1_IRQHandler	8	static

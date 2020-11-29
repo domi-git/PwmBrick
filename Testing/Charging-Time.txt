@@ -1,0 +1,12 @@
+Charging process from minimum Voltage (UVLO defined in the software) to the maximum voltage (defined via the MAX1811-IC to 4.2V)
+
+Conditions:
+-----------
+- UVLO in the Software (going into UVLO): 3,40V
+- UVLO in the Software (leaving UVLO): 3,60V
+- Measured Battery-Voltage at going into UVLO: 3,60V
+
+Charging Process:
+-----------------
+- 40 Minutes until UVLO was left (approx. 3.7 volts)
+- 3h until battery was fully charged (MAX1811 stopped charging)

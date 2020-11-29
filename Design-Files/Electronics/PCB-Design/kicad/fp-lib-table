@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name PwmBrick)(type KiCad)(uri ${KIPRJMOD}/Library/PwmBrick.pretty)(options "")(descr "Project specific library for PwmBrick"))
+)

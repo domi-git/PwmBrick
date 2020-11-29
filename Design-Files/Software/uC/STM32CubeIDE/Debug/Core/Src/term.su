@@ -1,0 +1,2 @@
+term.c:47:2:InitTerm	8	static
+term.c:55:2:CycleTerm	16	static

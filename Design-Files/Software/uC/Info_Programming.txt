@@ -1,0 +1,12 @@
+The controller can be programmed via ST-Link/V2-1. You can use most of the nucleo boards from ST for programming, because they have an integreted programmer (i have the Nucleo-F446RE-Board).
+
+Connection between Nucleo-Board and own PCB
+-------------------------------------------
+I'm using connector CN4 on the Nucleo-Board, with the following pins:
+- VDD
+- SWCLK
+- GND
+- SWDIO
+- NRST
+
+You can flash the software with the STM32CubeIDE (just press the "debug"-button).

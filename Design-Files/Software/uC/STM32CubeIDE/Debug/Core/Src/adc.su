@@ -1,0 +1,2 @@
+adc.c:20:6:InitAdc2	8	static
+adc.c:54:6:CycleAdc2	8	static

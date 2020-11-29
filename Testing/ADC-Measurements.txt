@@ -1,0 +1,15 @@
+U / mV	Digits
+1034		1300
+840			1043
+579			685
+347			370
+282			288
+
+Octave-Code:
+------------
+u2=[1034 840 579 347 282]
+dig2=[1300 1043 685 370 288]
+plot(u2, dig2)
+xlabel('Voltage in mV')
+ylabel('Digits')
+grid on
