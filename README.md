@@ -26,14 +26,20 @@ Everything was done in KiCad. The goal was to keep the overall space of the elec
 ![Layout-Top](/Design-Files/Electronics/PCB-Design/PwmBrick-Top.svg)
 ![Layout-Bot](/Design-Files/Electronics/PCB-Design/PwmBrick-Bot.svg)
 
+## Software   
 
 ## Todos / Improvements
 
 ### Documentation
 
-* Expand the mechanics section. Important aspects are the snap-fit solution, assembly and 3D-printing.
-* Software documentation?
-* Section about product development. Why this kind of sulotion?
+* Electronics
+	* Include schematic and explain a few things
+* Mechanics 
+	* Include more interesting details like the snap-fit solution, explosion drawing or infos for 3D-printing.
+* Software
+	* Start with the documentation
+* New Sections
+	* Section about product development. Why this kind of sulotion?
 * Fill in the toDos for mechanics, electronics and software
 
 ### Mechanics
