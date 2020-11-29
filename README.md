@@ -1,6 +1,6 @@
 # PwmBrick
 
-The aim of the project is to create a little Box to control a DC-Motor. The power should come from a 18650 LiIon-Cell and the form-factor should be small.
+The aim of the project is to create a little box to control a DC-motor. The power should come from a 18650 LiIon-cell and the form-factor should be small.
 
 **This is not a finished product! If you use anything from the project, you use it at your own risk! Be especially careful with the handling of LiIon-Batteries! If you don't know what you're doing there is always the risk of a thermal runaway which could lead to a fire or an explosion!**
 
