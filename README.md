@@ -12,7 +12,7 @@ The current state of the prototype can be seen in the following picture:
 
 **Main Features:**
 
-| Feature                                          | 3A                               |
+| Feature                                          | Value                            |
 |--------------------------------------------------|----------------------------------|
 | Max. Output Current                              | 3A                               |
 | Output Voltage (depends on charging status)      | 3.4V - 4.2V                      |
