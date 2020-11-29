@@ -12,12 +12,14 @@ The current state of the prototype can be seen in the following picture:
 
 **Main Features:**
 
-| Max. Output Current                              | 3A                               |
+| Feature                                          | 3A                               |
 |--------------------------------------------------|----------------------------------|
-| Output Voltage (depends on charging status)      | 3.4V-4.2V                        |
+| Max. Output Current                              | 3A                               |
+| Output Voltage (depends on charging status)      | 3.4V - 4.2V                      |
 | PWM-States (Can be switched via the buttons)     | 4                                |
-| Undervoltage Lockout (To protect the LiIon cell) | 3.4V (going into) 3.7V (leaving) |
 | PWM frequency                                    | 10kHz                            |
+| Undervoltage Lockout (going into)                | 3.4V                             |
+| Undervoltage Lockout (leaving)                   | 3.7V                             |
 
 ## Mechanics
 
