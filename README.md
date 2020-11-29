@@ -27,7 +27,7 @@ Everything was done in KiCad. The goal was to keep the overall space of the elec
 ![Layout-Bot](/Design-Files/Electronics/PCB-Design/PwmBrick-Bot.svg)
 
 
-## toDos / improvements
+## Todos / Improvements
 
 ### Documentation
 
