@@ -10,7 +10,7 @@ The mechanics are the most important part and dictate the available space for th
 
 If you look from the top onto the device the design idea is as follows:
 
-![Top view of the housing](/Design-Files/Mechanics/Top-View.png)
+![Top view of the housing](/Design-Files/Mechanics/Design-Idea-Top-View.png)
 
 ## Mechanics
 
@@ -26,3 +26,24 @@ Everything was done in KiCad. The goal was to keep the overall space of the elec
 ![Layout-Top](/Design-Files/Electronics/PCB-Design/PwmBrick-Top.svg)
 ![Layout-Bot](/Design-Files/Electronics/PCB-Design/PwmBrick-Bot.svg)
 
+
+## toDos / improvements
+
+### Documentation
+
+* Expand the mechanics section. Important aspects are the snap-fit solution, assembly and 3D-printing.
+* Software documentation?
+* Section about product development. Why this kind of sulotion?
+* Fill in the toDos for mechanics, electronics and software
+
+### Mechanics
+
+toDo
+
+### Electronics
+
+toDo
+
+### Software   
+
+toDo
