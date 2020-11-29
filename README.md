@@ -13,19 +13,11 @@ The current state of the prototype can be seen in the following picture:
 **Main Features:**
 
 | Max. Output Current                              | 3A                               |
+|--------------------------------------------------|----------------------------------|
 | Output Voltage (depends on charging status)      | 3.4V-4.2V                        |
 | PWM-States (Can be switched via the buttons)     | 4                                |
 | Undervoltage Lockout (To protect the LiIon cell) | 3.4V (going into) 3.7V (leaving) |
 | PWM frequency                                    | 10kHz                            |
-
-
-## Design Idea
-
-The mechanics are the most important part and dictate the available space for the electronics and the position of a lot of elements on the pcb, like LEDs, buttons and connectors.
-
-If you look from the top onto the device the design idea is as follows:
-
-![Top view of the housing](/Design-Files/Mechanics/Design-Idea-Top-View.png)
 
 ## Mechanics
 
