@@ -23,10 +23,18 @@ The current state of the prototype can be seen in the following picture:
 
 ## Mechanics
 
-All the CAD-Drawings were carried out with Blender. 
+All the CAD-Drawings were carried out with Blender. The assembly consists of the following parts:
+* top-part of the housing with cutouts for the buttons, the charging port and the LEDs
+* bottom-part of the housing
+* fibre-optics to guide the LED light
+* plus- and minus-button
+* pcb with soldered battery-holder for 18650-cell
+
+You can see the listed parts in the following picture:
+
+![Prototype-Render](/Design-Files/Mechanics/Explosion-Drawing.jpg)
 
 toDos: 
-* Explosion drawing with all components
 * Explanation of the snap-fit design
 
 ## Electronics
