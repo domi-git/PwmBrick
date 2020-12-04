@@ -1,12 +1,12 @@
 EESchema Schematic File Version 4
 EELAYER 30 0
 EELAYER END
-$Descr A3 16535 11693
+$Descr User 15354 9449
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "PwmBrick"
+Date "2020-12-04"
+Rev "v1"
 Comp ""
 Comment1 ""
 Comment2 ""

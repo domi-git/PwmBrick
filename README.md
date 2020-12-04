@@ -39,12 +39,14 @@ toDos:
 
 ## Electronics
 
-Everything was done in KiCad. The goal was to keep the overall space of the electronics very close to the footprint of the battery-holder for the 18650 LiIon cell. The layouts for top and bottom are as follows:
+Everything was done in KiCad. The goal was to keep the overall space of the electronics very close to the footprint of the battery-holder for the 18650 LiIon cell. 
 
+**Schematic**
+![Schematic](/Design-Files/Electronics/PCB-Design/kicad/PwmBrick.svg)
+
+**Layout**
 ![Layout-Top](/Design-Files/Electronics/PCB-Design/PwmBrick-Top.svg)
 ![Layout-Bot](/Design-Files/Electronics/PCB-Design/PwmBrick-Bot.svg)
-
-toDo: schematics and explanations
 
 ## Software
 
@@ -67,6 +69,7 @@ For the current PCB:
 
 For next PCB revision:
 * Incorporate a way to use the charging LED from the microcontroller. It should not be exclusive to the charging IC.
+* Low-pass for the measurement of the battery-voltage
 
 ### Software   
 

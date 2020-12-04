@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="BlockDiagram.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="336.90059"
+     inkscape:cy="667.45969"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815"
+       width="23.056549"
+       height="21.922617"
+       x="7.0282445"
+       y="28.38537" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="10.9025"
+       y="39.34668"
+       id="text819"><tspan
+         sodipodi:role="line"
+         id="tspan817"
+         x="10.9025"
+         y="39.34668"
+         style="stroke-width:0.26458332">Battery</tspan></text>
+    <rect
+       style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-3"
+       width="43.769939"
+       height="21.12081"
+       x="52.616409"
+       y="58.993225" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="73.834808"
+       y="69.855179"
+       id="text819-6"><tspan
+         sodipodi:role="line"
+         id="tspan817-7"
+         x="73.834808"
+         y="69.855179"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332">Boost-Converter</tspan><tspan
+         sodipodi:role="line"
+         x="73.834808"
+         y="74.2649"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan854">(10V)</tspan></text>
+    <rect
+       style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-3-5"
+       width="43.769939"
+       height="21.12081"
+       x="54.019577"
+       y="23.980919" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="75.237976"
+       y="34.842873"
+       id="text819-6-3"><tspan
+         sodipodi:role="line"
+         x="75.237976"
+         y="34.842873"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan854-6">LDO (3,3V)</tspan></text>
+    <rect
+       style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-3-5-2"
+       width="43.769939"
+       height="21.12081"
+       x="118.16426"
+       y="26.119074" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="139.78357"
+       y="38.317379"
+       id="text819-6-3-9"><tspan
+         sodipodi:role="line"
+         x="139.78357"
+         y="38.317379"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan854-6-1">µC</tspan></text>
+    <rect
+       style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-2"
+       width="23.056549"
+       height="21.922619"
+       x="14.39687"
+       y="58.592323" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="18.271126"
+       y="69.553635"
+       id="text819-7"><tspan
+         sodipodi:role="line"
+         id="tspan817-0"
+         x="18.271126"
+         y="69.553635"
+         style="stroke-width:0.26458332">Voltage</tspan><tspan
+         sodipodi:role="line"
+         x="18.271126"
+         y="73.963356"
+         style="stroke-width:0.26458332"
+         id="tspan943">Measurement</tspan></text>
+    <rect
+       style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-3-5-2-9"
+       width="43.769939"
+       height="21.12081"
+       x="125.11327"
+       y="72.891243" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="146.73257"
+       y="85.089546"
+       id="text819-6-3-9-3"><tspan
+         sodipodi:role="line"
+         x="146.73257"
+         y="85.089546"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan854-6-1-6">Half-Bridge</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot966"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:13.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion968"><rect
+           id="rect970"
+           width="294.96454"
+           height="155.56349"
+           x="461.63971"
+           y="251.76819" /></flowRegion><flowPara
+         id="flowPara972"></flowPara></flowRoot>    <rect
+       style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-3-5-2-9-0"
+       width="43.769939"
+       height="21.12081"
+       x="90.902771"
+       y="108.97263" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="112.52207"
+       y="121.17094"
+       id="text819-6-3-9-3-6"><tspan
+         sodipodi:role="line"
+         x="112.52207"
+         y="121.17094"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan854-6-1-6-2">Push Buttons</tspan></text>
+    <rect
+       style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-3-5-2-9-0-6"
+       width="43.769939"
+       height="21.12081"
+       x="76.470215"
+       y="210.53506" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="98.089516"
+       y="222.73337"
+       id="text819-6-3-9-3-6-1"><tspan
+         sodipodi:role="line"
+         x="98.089516"
+         y="222.73337"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan854-6-1-6-2-8">Charging Port</tspan></text>
+    <rect
+       style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-3-5-2-9-0-6-7"
+       width="43.769939"
+       height="21.12081"
+       x="76.470222"
+       y="178.46271" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="98.089516"
+       y="190.66101"
+       id="text819-6-3-9-3-6-1-9"><tspan
+         sodipodi:role="line"
+         x="98.089516"
+         y="190.66101"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan854-6-1-6-2-8-2">Charging IC</tspan></text>
+    <rect
+       style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.79374999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect815-3-5-2-9-0-6-7-0"
+       width="43.769939"
+       height="21.12081"
+       x="152.64203"
+       y="134.63051" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="174.26132"
+       y="146.82881"
+       id="text819-6-3-9-3-6-1-9-2"><tspan
+         sodipodi:role="line"
+         x="174.26132"
+         y="146.82881"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan854-6-1-6-2-8-2-3">LEDs</tspan></text>
+  </g>
+</svg>
