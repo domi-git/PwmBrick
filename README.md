@@ -34,9 +34,6 @@ You can see the listed parts in the following picture:
 
 ![Prototype-Render](/Design-Files/Mechanics/Explosion-Drawing.jpg)
 
-toDos: 
-* Explanation of the snap-fit design
-
 ## Electronics
 
 The schematic and the layout was done in KiCad. The goal was to keep the overall space of the electronics very close to the footprint of the battery-holder for the 18650 LiIon cell. 
@@ -59,12 +56,16 @@ The schematic and the layout was done in KiCad. The goal was to keep the overall
 
 ## Software
 
-toDos: 
-* Explanation of the states of the PWM
-* Explanation of the debugging capabilities with TermControl
-* Explanation of the procedure to flash the controller and how the pin is used for UART afterwards
+TBD
 
 ## Possible improvements
+
+### Documentation
+* Snap-Fit Design
+* The states of the PWM
+* Debugging capabilities with TermControl
+* How to flash new software
+
 
 ### Mechanics
 
@@ -73,14 +74,16 @@ toDos:
 ### Electronics
 
 For the current PCB:
-* Accurately measure the undervoltage lockout thresholds. 
+* Accurately measure the undervoltage lockout thresholds
 * Measure the charging current over time
 
 For next PCB revision:
-* Incorporate a way to use the charging LED from the microcontroller. It should not be exclusive to the charging IC.
+* Incorporate a way to use the charging LED from the microcontroller (It should not be exclusive to the charging IC)
 * Low-pass for the measurement of the battery-voltage
+* Pull-Downs/Pull-Ups for the Uart/Flash connector
 
 ### Software   
 
 * Clean up the code
-* Replace as much of generated code from the IDE with own implementations.
+* Implement a soft transition of the pwm duty-cycle in state changes
+* Replace as much of generated code from the IDE with own implementations
