@@ -39,7 +39,12 @@ toDos:
 
 ## Electronics
 
-Everything was done in KiCad. The goal was to keep the overall space of the electronics very close to the footprint of the battery-holder for the 18650 LiIon cell. 
+The schematic and the layout was done in KiCad. The goal was to keep the overall space of the electronics very close to the footprint of the battery-holder for the 18650 LiIon cell. 
+
+**Block diagram**
+
+
+![Schematic](/Design-Files/Electronics/BlockDiagram.svg)
 
 **Schematic**
 
