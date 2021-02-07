@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name PwmBrickSymbols)(type Legacy)(uri ${KIPRJMOD}/Library/PwmBrickSymbols.lib)(options "")(descr ""))
+  (lib (name PwmBrick-rescue)(type Legacy)(uri ${KIPRJMOD}/PwmBrick-rescue.lib)(options "")(descr ""))
 )
